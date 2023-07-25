@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink:
+permalink: /
 subtitle: speech science :star: data visualization :star: science communication :star: she or they
 
 profile:

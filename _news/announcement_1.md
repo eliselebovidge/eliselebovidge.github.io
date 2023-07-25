@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-06
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I obtained a Certificate in Science Communication after successfully completing the NSF-funded [Science Communication Online Programme (SCOPE)](https://ciera.northwestern.edu/programs/scope/) by the [Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)](https://ciera.northwestern.edu/) at Northwestern University! :tada:
