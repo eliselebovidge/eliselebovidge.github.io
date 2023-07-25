@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+nav: true
 subtitle: speech science :star: data visualization :star: science communication :star: she or they
 
 profile:
