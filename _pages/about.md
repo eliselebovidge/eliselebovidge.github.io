@@ -1,9 +1,10 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 nav: true
-subtitle: speech science :star: data visualization :star: science communication :star: she or they
+nav_order: 1
+subtitle: #speech science :star: data visualization :star: science communication :star: she or they
 
 profile:
   align: right
