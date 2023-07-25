@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: speech science :star: data visualization :star: science communication :star: she or they
+subtitle: speech science 🌻 data visualization 🌻 science communication 🌻 she or they
 
 profile:
   align: right
